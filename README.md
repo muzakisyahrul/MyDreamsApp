@@ -1,4 +1,4 @@
 # MyDreamsApp
 UAP PPB1
 
-Android Studo Artic Fox 2020
+Android Studio Artic Fox 2020
